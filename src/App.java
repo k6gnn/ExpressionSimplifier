@@ -1,5 +1,5 @@
 import java.io.IOException;
-
+//baliqli sup ye
 public class App {
     public static final String OUTPUT_FILE = "out.txt";
 
